@@ -9,4 +9,4 @@
 Para regresar al Home del repositorio, use:
 
 ```
-cd /workspaces/basicos.act3
+cd /workspaces/act3.basicos
